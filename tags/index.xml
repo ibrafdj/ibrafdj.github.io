@@ -1,64 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A Simple Mind</title>
+    <title>Tags on Ibrafdj</title>
     <link>https://www.ibrafdj.com/tags/</link>
-    <description>Recent content in Tags on A Simple Mind</description>
+    <description>Recent content in Tags on Ibrafdj</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ibrafdj.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.ibrafdj.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>indonesian</title>
+      <link>https://www.ibrafdj.com/tags/indonesian/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/tags/indonesian/</guid>
+      <description></description>
+    </item>
     <item>
       <title>english</title>
       <link>https://www.ibrafdj.com/tags/english/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/tags/english/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>analysis</title>
       <link>https://www.ibrafdj.com/tags/analysis/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ibrafdj.com/tags/analysis/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>indonesian</title>
-      <link>https://www.ibrafdj.com/tags/indonesian/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ibrafdj.com/tags/indonesian/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>kuliah-online</title>
       <link>https://www.ibrafdj.com/tags/kuliah-online/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ibrafdj.com/tags/kuliah-online/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>crash-landing-on-you</title>
       <link>https://www.ibrafdj.com/tags/crash-landing-on-you/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ibrafdj.com/tags/crash-landing-on-you/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>review</title>
       <link>https://www.ibrafdj.com/tags/review/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ibrafdj.com/tags/review/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,37 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on A Simple Mind</title>
+    <title>Blogs on Ibrafdj</title>
     <link>https://www.ibrafdj.com/blog/</link>
-    <description>Recent content in Blogs on A Simple Mind</description>
+    <description>Recent content in Blogs on Ibrafdj</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ibrafdj.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.ibrafdj.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Penelitian, Lautan, dan Impian: Pengalaman Disertasi S2 di Inggris</title>
+      <link>https://www.ibrafdj.com/blog/penelitian-lautan-impian/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/blog/penelitian-lautan-impian/</guid>
+      <description>Kita tidak bisa tau kapan kesempatan emas akan datang.&#xA;Yang bisa kita lakukan hanyalah bersiap—mengasah diri, merangkul risiko, dan memastikan saat pintu itu terbuka, kita siap melangkah masuk.&#xA;Itulah yang terjadi ketika aku memutuskan untuk pindah jurusan&#xD;ke Maritime Engineering saat kuliah S2 di University of Southampton. Langkah yang awalnya penuh keraguan justru menjadi titik balik yang mempertegas arah hidupku: fokus di bidang Underwater Robotics.&#xA;Ketika kesempatan datang untuk mengerjakan disertasi tentang Autonomous Underwater Vehicle (AUV)—dengan wahana yang mirip dengan saat Tugas Akhir S1-ku dulu—aku tahu, inilah saatnya.</description>
+    </item>
+    <item>
+      <title>Kenapa Zahra?</title>
+      <link>https://www.ibrafdj.com/blog/kenapa-zahra/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/blog/kenapa-zahra/</guid>
+      <description>&amp;ldquo;Kenapa aku memilih Zahra Khairunnisa?&amp;rdquo;&#xA;Kenapa aku bisa yakin untuk menghabiskan sisa umurku dengan Zahra setelah mengenalnya selama hampir empat tahun?&#xA;Ribuan kata bisa kutuliskan untuk menjawab pertanyaan tersebut. Tapi saat berpikir tentang Zahra, dua kata pertama yang muncul di pikiranku adalah altruis dan idealis.&#xA;Altruis Zahra menyusuri kampung kota di Jakarta Aku percaya manusia adalah mahluk yang egois. Secara sadar maupun tidak sadar, kita memiliki kebutuhan untuk bertahan hidup. Di lain sisi, jumlah sumber daya di dunia sangatlah terbatas.</description>
+    </item>
+    <item>
+      <title>Membedah Contoh Essay Personal Statement untuk Kuliah ke Luar Negeri</title>
+      <link>https://www.ibrafdj.com/blog/membedah-essay-personal-statement/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/blog/membedah-essay-personal-statement/</guid>
+      <description>Selama menulis essay Personal Statement-ku untuk mendaftar S2 ke luar negeri, aku belajar dari beragam sumber di internet. Namun, satu sumber yang paling banyak membantuku adalah tulisan Another Annotated Example: CS PhD Statement of Purpose&#xD;. Di tulisan tersebut, Eugenie Y. Lai menunjukkan pertimbangan dan pemikirannya dalam setiap paragraf essay Statement of Purpose yang ia tulis.&#xA;Sayangnya, aku sama sekali tidak menemukan tulisan yang membedah essay Personal Statement atau Statement of Purpose dalam bahasa Indonesia.</description>
+    </item>
+    <item>
+      <title>Merakit Rangkaian, Mengarungi Lautan</title>
+      <link>https://www.ibrafdj.com/blog/merakit-rangkaian-mengarungi-lautan/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/blog/merakit-rangkaian-mengarungi-lautan/</guid>
+      <description>Umm, I can explain. I know what you&amp;rsquo;re (probably) thinking.&#xA;Kenapa seorang Ibrahim Fadhil Djauhari, yang kuliah S1 Electrical Engineering dan kerja di bidang Software Engineering, malah lanjut kuliah S2 di bidang Maritime Engineering??&#xA;Jika kalian ingin jawaban yang singkat, jawabannya adalah karena aku ingin mendalami bidang underwater robotics.&#xA;Kalau jawaban panjangnya? Well, I&amp;rsquo;m glad you asked because that&amp;rsquo;s precisely why I wrote this post.&#xA;Selain untuk menjawab pertanyaan yang sering ditanyakan orang lain, harapanku tulisan ini bisa memberikan wawasan dan inspirasi untuk teman-teman yang sedang merencanakan tujuan kuliahnya (Terutama merencanakan kuliah S2/S3 namun jurusan S1-nya berbeda jauh), merencanakan pergantian karir antara dua bidang yang berbeda, dan/atau penasaran dengan bidang underwater robotics yang akan kutekuni ini.</description>
+    </item>
     <item>
       <title>Kuliah Online: Adaptasi atau Mati</title>
       <link>https://www.ibrafdj.com/blog/kuliah-online-adaptasi-atau-mati/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ibrafdj.com/blog/kuliah-online-adaptasi-atau-mati/</guid>
-      <description>Tidak ada yang bisa memprediksi
-Bahwa dunia akan terguncang oleh pandemi
-Seluruh aspek kehidupan terancam oleh disrupsi
-Dan satu-satunya jalan untuk bertahan adalah adaptasi
-Lalu, apa kabar dengan dunia pendidikan?
-Saat kebiasaan lama dihadapi tantangan zaman
-Apakah benar sudah tidak ada harapan?
-Saat taruhannya adalah generasi masa depan
-Narasi Alarm berdering kencang, menandakan pagi hari yang telah datang. Dengan berat hati dan energi, kamu perlahan terbangun dari rasa kantuk yang mendalam.</description>
+      <description>Tidak ada yang bisa memprediksi&#xA;Bahwa dunia akan terguncang oleh pandemi&#xA;Seluruh aspek kehidupan terancam oleh disrupsi&#xA;Dan satu-satunya jalan untuk bertahan adalah adaptasi&#xA;Lalu, apa kabar dengan dunia pendidikan?&#xA;Saat kebiasaan lama dihadapi tantangan zaman&#xA;Apakah benar sudah tidak ada harapan?&#xA;Saat taruhannya adalah generasi masa depan&#xA;Narasi Alarm berdering kencang, menandakan pagi hari yang telah datang. Dengan berat hati dan energi, kamu perlahan terbangun dari rasa kantuk yang mendalam.</description>
     </item>
-    
     <item>
       <title>A Review of Crash Landing on You (2019)</title>
       <link>https://www.ibrafdj.com/blog/a-review-of-crash-landing-on-you-2019/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ibrafdj.com/blog/a-review-of-crash-landing-on-you-2019/</guid>
-      <description>I have never watched a single Korean drama series before Crash Landing on You.
-That sums up pretty much all the qualifications that I have in writing this review. I have no prior knowledge of any K-drama tropes, character archetypes, culture, etc. This gives me an outside look and a fresh new perspective of this widely-acclaimed series. A perspective that I am willing to share in this spoiler-free review of Crash Landing on You!</description>
+      <description>I have never watched a single Korean drama series before Crash Landing on You.&#xA;That sums up pretty much all the qualifications that I have in writing this review. I have no prior knowledge of any K-drama tropes, character archetypes, culture, etc. This gives me an outside look and a fresh new perspective of this widely-acclaimed series. A perspective that I am willing to share in this spoiler-free review of Crash Landing on You!</description>
     </item>
-    
   </channel>
 </rss>
