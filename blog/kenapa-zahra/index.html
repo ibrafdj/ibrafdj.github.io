@@ -6,14 +6,14 @@
   <link rel="icon" href="/favicon.ico">
 
   <title>
-  Kenapa Zahra? - Ibrafdj
+  Kenapa Zahra? - ibrafdj
   </title>
   <meta name="description" content="Alasanku memilih Zahra Khairunnisa" />
   <meta name="author" content="Ibrahim Fadhil Djauhari" />
   <meta name="generator" content="Hugo 0.122.0"><link
     rel="stylesheet"
-    href="https://www.ibrafdj.com/css/styles.min.a196ac2c329b7c6b71efe95b8cbb1e71d9df69f25d211a2c913415d16a989579.css"
-    integrity="sha256-oZasLDKbfGtx7+lbjLsecdnfafJdIRoskTQV0WqYlXk="
+    href="https://www.ibrafdj.com/css/styles.min.b247d82ff0d18aebcf4aa222dbf30ae5a335cd55eff3921080ee0d06eb487137.css"
+    integrity="sha256-skfYL/DRiuvPSqIi2/MK5aM1zVXv85IQgO4NButIcTc="
   />
   
   
@@ -50,10 +50,10 @@ if (!doNotTrack) {
 </script>
 
 </head>
-<body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative">
-  <a href="https://www.ibrafdj.com/" class="capitalize font-extrabold text-2xl">
+<body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative max-w-ibrafdj">
+  <a href="https://www.ibrafdj.com/" class="font-extrabold text-2xl">
     
-    Ibrafdj
+    <h1>ibrafdj</h1>
     
   </a>
   <button class="mobile-menu-button md:hidden">
@@ -66,15 +66,30 @@ if (!doNotTrack) {
   <ul class="mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-end md:items-center gap-4 lg:gap-6 bg-white dark:bg-gray-800">
 
     
-    <li><a href="/page/about/">About</a></li>
+    <li><a href="/blog">Blog</a></li>
     
-    <li><a href="https://zcal.co/ibrafdj/meet">Call</a></li>
+    <li><a href="/project">Projects</a></li>
+    
+    <li><a href="/page/about/">About</a></li>
     
     <li><a href="/page/cv.pdf">CV</a></li>
     
+    <li><a href="https://zcal.co/ibrafdj/meet">Call Me!</a></li>
+    
 
     
 
+    
+    <li class="grid place-items-center">
+      <span class="open-search inline-block cursor-pointer">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5"
+          stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <circle cx="10" cy="10" r="7" />
+          <line x1="21" y1="21" x2="15" y2="15" />
+        </svg>
+      </span>
+    </li>
     
 
     
@@ -265,10 +280,10 @@ Ibrahim Fadhil Djauhari</p>
   
 </div>
 <div class="bg-blue-100 dark:bg-gray-900">
-  <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+  <div class="container px-6 py-12 mx-auto max-w-ibrafdj grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
     <div>
-      <div class="text-2xl font-bold mb-2">Want to get in touch?</div>
-      <p class="opacity-60">Contact me up through my social media!</p>
+      <h1 class="text-2xl font-bold mb-2">Want to get in touch?</h1>
+      <p class="opacity-60">Contact me through my social media!</p>
     </div>
 
     <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
@@ -683,7 +698,41 @@ Ibrahim Fadhil Djauhari</p>
   </span>
 </footer>
 
+<div class="search-ui absolute top-0 left-0 w-full h-full bg-white dark:bg-gray-800 hidden">
+  <div class="container max-w-3xl mx-auto p-12">
+    <div class="relative">
+      <div class="my-4 text-center text-2xl font-bold">Search</div>
 
+      <span class="p-2 absolute right-0 top-0 cursor-pointer close-search">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5"
+          stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <line x1="18" y1="6" x2="6" y2="18" />
+          <line x1="6" y1="6" x2="18" y2="18" />
+        </svg>
+      </span>
+    </div>
+
+    <input type="search" class="py-2 px-3 w-full dark:text-black border dark:border-transparent"
+      placeholder="Enter search query" />
+
+    <div class="search-results text-lg font-medium my-4 hidden">Results</div>
+    <ul class="search-list my-2">
+
+    </ul>
+
+    <div class="no-results text-center my-8 hidden">
+      <div class="text-xl font-semibold mb-2">No results found</div>
+      <p class="font-light text-sm">Try adjusting your search query</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<script src="https://www.ibrafdj.com/js/scripts.min.js"></script>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6EJ8EYGWV"></script>

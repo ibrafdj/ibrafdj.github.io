@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ibrafdj</title>
+    <title>Projects on ibrafdj</title>
     <link>https://www.ibrafdj.com/project/</link>
-    <description>Recent content in Projects on Ibrafdj</description>
+    <description>Recent content in Projects on ibrafdj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.ibrafdj.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TEST</title>
-      <link>https://www.ibrafdj.com/project/kuliah-online-adaptasi-atau-mati/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/project/kuliah-online-adaptasi-atau-mati/</guid>
-      <description>Tidak ada yang bisa memprediksi&#xA;Bahwa dunia akan terguncang oleh pandemi&#xA;Seluruh aspek kehidupan terancam oleh disrupsi&#xA;Dan satu-satunya jalan untuk bertahan adalah adaptasi&#xA;Lalu, apa kabar dengan dunia pendidikan?&#xA;Saat kebiasaan lama dihadapi tantangan zaman&#xA;Apakah benar sudah tidak ada harapan?&#xA;Saat taruhannya adalah generasi masa depan&#xA;Narasi Alarm berdering kencang, menandakan pagi hari yang telah datang. Dengan berat hati dan energi, kamu perlahan terbangun dari rasa kantuk yang mendalam.</description>
+      <title>AUV Visual Subsea Cable Tracking</title>
+      <link>https://www.ibrafdj.com/project/auv-visua-subsea-cable-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/project/auv-visua-subsea-cable-tracking/</guid>
+      <description>This project results in two academic publications 12.&#xA;A. Bodenmann, I. F. Djauhari, J. Devgon and B. Thornton, &amp;ldquo;Real-time Subsea Communication Cable Detection for AUV-based Inspection,&amp;rdquo; 2024 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Boston, MA, USA, 2024, pp. 1-6, doi: 10.1109/AUV61864.2024.11030782.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;I. F. Djauhari, A. Bodenmann, S. Simmons and B. Thornton, &amp;ldquo;Subsea Cable Search and Path Estimation Using Graph SLAM for AUV-Based Inspection,&amp;rdquo; 2025 IEEE Underwater Technology (UT), Taipei, Taiwan, 2025, pp.</description>
+    </item>
+    <item>
+      <title>Hybrid Underwater Glider (HUG)</title>
+      <link>https://www.ibrafdj.com/project/itb-hug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/project/itb-hug/</guid>
+      <description>A HUG can switch between moving in a low-power glide mode and a high-precision propulsion mode. This hybrid movement allows it to maximize its survey duration by first travelling to the survey site in glide mode, then switch to propulsion mode while surveying the site.&#xA;The ITB-HUG is being developed in Institut Teknologi Bandung (ITB) by the Computer &amp;amp; Control Systems research group. In 2019, my team and I joined this project to work on my final undergraduate capstone design project titled &amp;ldquo;Integration of Navigation, Guidance, and Control of Hybrid Underwater Glider&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>

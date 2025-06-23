@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>english on Ibrafdj</title>
+    <title>english on ibrafdj</title>
     <link>https://www.ibrafdj.com/tags/english/</link>
-    <description>Recent content in english on Ibrafdj</description>
+    <description>Recent content in english on ibrafdj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.ibrafdj.com/tags/english/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CV</title>
-      <link>https://www.ibrafdj.com/page/cv/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/page/cv/</guid>
-      <description>Ibrahim Fadhil Djauhari Summary An Electrical, Software, and Marine Engineer with over 4 years of experience developing maritime robotics, particularly Autonomous Underwater Vehicles (AUVs). Specialized in developing autonomous systems while demonstrating success in cloud engineering and IoT applications, spanning embedded systems, computer vision, and cloud architecture.&#xA;Experience Research Assistant University of Southampton September 2024 - November 2024 (3 months)&#xA;Southampton, England, United Kingdom&#xA;Developed a visual subsea cable survey system for detecting, following, and searching subsea cables into a Sparus II Autonomous Underwater Vehicle (AUV) using Python and ROS Deployed a computer vision model using Docker in an Nvidia Jetson board for cable detection using the AUV&amp;rsquo;s onboard cameras Developed a cable detection API using Flask to bridge communication between the computer vision model &amp;amp; cable survey system Planned and executed the deployment of an AUV in a four-day sea trial off the coast of Plymouth to test the subsea cable survey system Cloud Middleware Engineer Samsung R&amp;amp;D Institute Indonesia August 2021 - August 2023 (2 years 1 month)</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://www.ibrafdj.com/page/about/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/page/about/</guid>
-      <description>Hello there! I started blogging back when I was in high school in 2015 by writing short fictional stories for my very first blog&#xD;(I was young and dumb; please be nice). But this hobby died out pretty soon as I graduated high school and entered college.&#xA;Flash forward to 2020, when a pandemic struck the world, and for a while, everyone just stayed in peace and quiet at home.</description>
-    </item>
     <item>
       <title>A Review of Crash Landing on You (2019)</title>
       <link>https://www.ibrafdj.com/blog/a-review-of-crash-landing-on-you-2019/</link>
