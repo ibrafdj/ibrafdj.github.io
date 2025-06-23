@@ -62,7 +62,7 @@
       <link>https://www.ibrafdj.com/project/auv-visua-subsea-cable-tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/project/auv-visua-subsea-cable-tracking/</guid>
-      <description>This project results in two academic publications 12.&#xA;A. Bodenmann, I. F. Djauhari, J. Devgon and B. Thornton, &amp;ldquo;Real-time Subsea Communication Cable Detection for AUV-based Inspection,&amp;rdquo; 2024 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Boston, MA, USA, 2024, pp. 1-6, doi: 10.1109/AUV61864.2024.11030782.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;I. F. Djauhari, A. Bodenmann, S. Simmons and B. Thornton, &amp;ldquo;Subsea Cable Search and Path Estimation Using Graph SLAM for AUV-Based Inspection,&amp;rdquo; 2025 IEEE Underwater Technology (UT), Taipei, Taiwan, 2025, pp.</description>
+      <description>This research project is done with the Ocean Perception Lab&#xD;at the University of Southampton.&#xA;Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured.</description>
     </item>
     <item>
       <title>Hybrid Underwater Glider (HUG)</title>
