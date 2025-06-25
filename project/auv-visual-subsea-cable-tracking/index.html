@@ -6,7 +6,7 @@
   <link rel="icon" href="/favicon.ico">
 
   <title>
-  AUV Visual Subsea Cable Tracking - ibrafdj
+  AUV Visual Subsea Cable Tracking - Ibrahim Fadhil Djauhari&#39;s Website
   </title>
   <meta name="description" content="Developed real-time system for detecting, following, and searching subsea cables using an AUV" />
   <meta name="author" content="Ibrahim Fadhil Djauhari" />
@@ -22,17 +22,17 @@
 <meta property="og:description" content="Developed real-time system for detecting, following, and searching subsea cables using an AUV" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/" /><meta property="article:section" content="project" />
-
-
+<meta property="article:published_time" content="2025-01-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2025-01-01T00:00:00+00:00" />
 
 
   <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="AUV Visual Subsea Cable Tracking"/>
 <meta name="twitter:description" content="Developed real-time system for detecting, following, and searching subsea cables using an AUV"/>
 
   <meta itemprop="name" content="AUV Visual Subsea Cable Tracking">
-<meta itemprop="description" content="Developed real-time system for detecting, following, and searching subsea cables using an AUV">
-
-<meta itemprop="wordCount" content="466">
+<meta itemprop="description" content="Developed real-time system for detecting, following, and searching subsea cables using an AUV"><meta itemprop="datePublished" content="2025-01-01T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2025-01-01T00:00:00+00:00" />
+<meta itemprop="wordCount" content="505">
 <meta itemprop="keywords" content="" />
 
   
@@ -132,19 +132,21 @@ if (!doNotTrack) {
     
 
     <p>This research project is done with the <a href="https://www.oceanperception.com" target="_blank" rel="noopener">Ocean Perception Lab</a>
- at the University of Southampton.</p>
+ at the University of Southampton. The cover image shows how an AUV can update its estimation of the cable map based on new observations <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
 <p>Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured. Our integrated system allows an AUV to not only track a visible cable using visual data but also to intelligently search for and relocate the cable after losing contact, making long-distance autonomous inspection missions feasible.</p>
-<p>The system combines two key innovations. The first is a real-time visual detection and following algorithm that processes images from an onboard camera. We utilize advanced machine learning classifiers, specifically GeoCLR, which has proven effective at identifying the cable in seafloor imagery with a low rate of false positives—a crucial factor for stable tracking. When the cable is detected, the algorithm computes its position and orientation to generate immediate navigational waypoints for the AUV to follow it closely. The second component is a novel search and path estimation method for when the cable is not visible, due to being buried or outside the camera&rsquo;s view. This system employs a graph-based Simultaneous Localisation and Mapping (SLAM) approach, which continually updates a map of the cable&rsquo;s route and its uncertainty based on successful observations. This updated map then guides a systematic zig-zag search pattern, significantly improving the AUV&rsquo;s ability to relocate the cable efficiently.</p>
-<p>To address the challenge of matching sensor observations to the featureless cable, we introduced a cable-relative coordinate frame that allows for reliable data association within the SLAM framework. We have rigorously tested our system through simulations using real-world cable routes from surveys off the coast of Oregon and Plymouth. These simulations, incorporating the dynamics of the Sparus II and AE2000F AUVs, have demonstrated that our method can consistently observe over 66% of a cable&rsquo;s remaining length even with numerous buried sections and significant initial route uncertainty. Future work will involve sea trials with the University of Southampton&rsquo;s Smarty200 AUV to validate these findings in a real-world operational environment.</p>
-<p>This project results in two academic<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> publications<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<p>The system combines two key innovations. The first is a real-time visual detection and following algorithm that processes images from an onboard camera<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. We utilize advanced machine learning classifiers, specifically GeoCLR, which has proven effective at identifying the cable in seafloor imagery with a low rate of false positives—a crucial factor for stable tracking. When the cable is detected, the algorithm computes its position and orientation to generate immediate navigational waypoints for the AUV to follow it closely. The second component is a novel search and path estimation method for when the cable is not visible, due to being buried or outside the camera&rsquo;s view <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>. This system employs a graph-based Simultaneous Localisation and Mapping (SLAM) approach, which continually updates a map of the cable&rsquo;s route and its uncertainty based on successful observations. This updated map then guides a systematic zig-zag search pattern, significantly improving the AUV&rsquo;s ability to relocate the cable efficiently.</p>
+<p>To address the challenge of matching sensor observations to the featureless cable, we introduced a cable-relative coordinate frame that allows for reliable data association within the SLAM framework. We have rigorously tested our system through simulations using real-world cable routes from surveys off the coast of Oregon and Plymouth. These simulations have demonstrated that our method can consistently observe over 66% of a cable&rsquo;s remaining length even with numerous buried sections and significant initial route uncertainty. Future work will involve sea trials with the University of Southampton&rsquo;s Smarty200 AUV to validate these findings in a real-world operational environment.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1">
-<p>A. Bodenmann, I. F. Djauhari, J. Devgon and B. Thornton, &ldquo;Real-time Subsea Communication Cable Detection for AUV-based Inspection,&rdquo; 2024 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Boston, MA, USA, 2024, pp. 1-6, doi: 10.1109/AUV61864.2024.11030782.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Thornton, Blair, Bodenmann, Adrian, Massot Campos, Miguel, Simmons, Samuel, Gourvenec, Susan, White, David, Bennets, Tom and Newborough, Darryl (2024) Autonomous robotic monitoring of subsea communication cables. Underwater Defence Technology 2024. 09 - 11 Apr 2024.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2">
-<p>I. F. Djauhari, A. Bodenmann, S. Simmons and B. Thornton, &ldquo;Subsea Cable Search and Path Estimation Using Graph SLAM for AUV-Based Inspection,&rdquo; 2025 IEEE Underwater Technology (UT), Taipei, Taiwan, 2025, pp. 1-6, doi: 10.1109/UT61067.2025.10947380.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>A. Bodenmann, I. F. Djauhari, J. Devgon and B. Thornton, &ldquo;Real-time Subsea Communication Cable Detection for AUV-based Inspection,&rdquo; 2024 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), Boston, MA, USA, 2024, pp. 1-6, doi: 10.1109/AUV61864.2024.11030782.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>I. F. Djauhari, A. Bodenmann, S. Simmons and B. Thornton, &ldquo;Subsea Cable Search and Path Estimation Using Graph SLAM for AUV-Based Inspection,&rdquo; 2025 IEEE Underwater Technology (UT), Taipei, Taiwan, 2025, pp. 1-6, doi: 10.1109/UT61067.2025.10947380.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>

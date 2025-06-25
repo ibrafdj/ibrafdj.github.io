@@ -6,18 +6,19 @@
     <description>Recent content in Projects on ibrafdj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.ibrafdj.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AUV Visual Subsea Cable Tracking</title>
       <link>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</guid>
-      <description>This research project is done with the Ocean Perception Lab&#xD;at the University of Southampton.&#xA;Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured.</description>
+      <description>This research project is done with the Ocean Perception Lab&#xD;at the University of Southampton. The cover image shows how an AUV can update its estimation of the cable map based on new observations 1.&#xA;Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured.</description>
     </item>
     <item>
       <title>Hybrid Underwater Glider (HUG)</title>
       <link>https://www.ibrafdj.com/project/itb-hug/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/project/itb-hug/</guid>
       <description>A HUG can switch between moving in a low-power glide mode and a high-precision propulsion mode. This hybrid movement allows it to maximize its survey duration by first travelling to the survey site in glide mode, then switch to propulsion mode while surveying the site.&#xA;The ITB-HUG is being developed in Institut Teknologi Bandung (ITB) by the Computer &amp;amp; Control Systems research group. In 2019, my team and I joined this project to work on my final undergraduate capstone design project titled &amp;ldquo;Integration of Navigation, Guidance, and Control of Hybrid Underwater Glider&amp;rdquo;.</description>
     </item>

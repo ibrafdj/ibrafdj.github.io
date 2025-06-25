@@ -6,8 +6,15 @@
     <description>Recent content on ibrafdj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.ibrafdj.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AUV Visual Subsea Cable Tracking</title>
+      <link>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</guid>
+      <description>This research project is done with the Ocean Perception Lab&#xD;at the University of Southampton. The cover image shows how an AUV can update its estimation of the cable map based on new observations 1.&#xA;Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured.</description>
+    </item>
     <item>
       <title>Penelitian, Lautan, dan Impian: Pengalaman Disertasi S2 di Inggris</title>
       <link>https://www.ibrafdj.com/blog/penelitian-lautan-impian/</link>
@@ -51,25 +58,18 @@
       <description>I have never watched a single Korean drama series before Crash Landing on You.&#xA;That sums up pretty much all the qualifications that I have in writing this review. I have no prior knowledge of any K-drama tropes, character archetypes, culture, etc. This gives me an outside look and a fresh new perspective of this widely-acclaimed series. A perspective that I am willing to share in this spoiler-free review of Crash Landing on You!</description>
     </item>
     <item>
+      <title>Hybrid Underwater Glider (HUG)</title>
+      <link>https://www.ibrafdj.com/project/itb-hug/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/project/itb-hug/</guid>
+      <description>A HUG can switch between moving in a low-power glide mode and a high-precision propulsion mode. This hybrid movement allows it to maximize its survey duration by first travelling to the survey site in glide mode, then switch to propulsion mode while surveying the site.&#xA;The ITB-HUG is being developed in Institut Teknologi Bandung (ITB) by the Computer &amp;amp; Control Systems research group. In 2019, my team and I joined this project to work on my final undergraduate capstone design project titled &amp;ldquo;Integration of Navigation, Guidance, and Control of Hybrid Underwater Glider&amp;rdquo;.</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://www.ibrafdj.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/page/about/</guid>
-      <description>Ibrahim Fadhil Djauhari I am a Robotics Software Engineer with five years of experience in end-to-end mobile robot development, from novel research concepts to optimised field-tested systems in resource-constrained devices. Proven expertise in developing ROS-based systems for navigation, sensor fusion, computer vision, and SLAM, validated by two patents and two academic publications. Specialising in the research and development of Autonomous Underwater Vehicles (AUVs).</description>
-    </item>
-    <item>
-      <title>AUV Visual Subsea Cable Tracking</title>
-      <link>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</guid>
-      <description>This research project is done with the Ocean Perception Lab&#xD;at the University of Southampton.&#xA;Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured.</description>
-    </item>
-    <item>
-      <title>Hybrid Underwater Glider (HUG)</title>
-      <link>https://www.ibrafdj.com/project/itb-hug/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/project/itb-hug/</guid>
-      <description>A HUG can switch between moving in a low-power glide mode and a high-precision propulsion mode. This hybrid movement allows it to maximize its survey duration by first travelling to the survey site in glide mode, then switch to propulsion mode while surveying the site.&#xA;The ITB-HUG is being developed in Institut Teknologi Bandung (ITB) by the Computer &amp;amp; Control Systems research group. In 2019, my team and I joined this project to work on my final undergraduate capstone design project titled &amp;ldquo;Integration of Navigation, Guidance, and Control of Hybrid Underwater Glider&amp;rdquo;.</description>
+      <description>Ibrahim Fadhil Djauhari I am a Underwater Robotics Engineer based in Indonesia with five years of experience in end-to-end mobile robot development, taking novel research concepts into optimised field-tested systems. I have proven expertise in developing ROS-based systems for navigation, sensor fusion, computer vision, and SLAM, validated by two patents and two academic publications. I specialise in the research and development of Autonomous Underwater Vehicles (AUVs).</description>
     </item>
   </channel>
 </rss>
