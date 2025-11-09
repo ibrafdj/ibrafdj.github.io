@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.ibrafdj.com/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.ibrafdj.com/project/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ibrafdj.com/project/rov-shipwreck-mapping/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.ibrafdj.com/blog/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.ibrafdj.com/tags/indonesian/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
@@ -22,6 +25,9 @@
   </url><url>
     <loc>https://www.ibrafdj.com/tags/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ibrafdj.com/page/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.ibrafdj.com/blog/kenapa-zahra/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
@@ -47,7 +53,5 @@
     <loc>https://www.ibrafdj.com/page/about/</loc>
   </url><url>
     <loc>https://www.ibrafdj.com/categories/</loc>
-  </url><url>
-    <loc>https://www.ibrafdj.com/page/</loc>
   </url>
 </urlset>

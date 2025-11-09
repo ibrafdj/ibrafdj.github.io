@@ -4,23 +4,30 @@
     <title>Projects on ibrafdj</title>
     <link>https://www.ibrafdj.com/project/</link>
     <description>Recent content in Projects on ibrafdj</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.ibrafdj.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shipwreck Mapping using ROV</title>
+      <link>https://www.ibrafdj.com/project/rov-shipwreck-mapping/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.ibrafdj.com/project/rov-shipwreck-mapping/</guid>
+      <description>&lt;p&gt;This project, part of a joint research mission between Rovostech with Bandung Institute of Technology (ITB), focused on developing and applying ROV-based photogrammetry methods for mapping underwater archaeological sites. The primary objective was to acquire high-resolution visual data of sunken shipwrecks (KM Posso and KM Tabularasa) at 30m depths, enabling detailed 3D reconstruction for maritime archaeology.&lt;/p&gt;&#xA;&lt;p&gt;The operation utilized the battery-powered ROVOCEAN, a observation-class ROV rated at 150m depth modified with a high-resolution stereo GoPro payload, additional lighting, and a USBL transponder for sub-meter position tracking. The survey plan involved navigating the ROV in a systematic lawn-mower pattern at a close distance to capture high-overlap imagery required for photogrammetric processing. This procedure was executed from a surface support vessel in challenging open-sea conditions near Pramuka Island.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AUV Visual Subsea Cable Tracking</title>
       <link>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/project/auv-visual-subsea-cable-tracking/</guid>
-      <description>This research project is done with the Ocean Perception Lab&#xD;at the University of Southampton. The cover image shows how an AUV can update its estimation of the cable map based on new observations 1.&#xA;Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured.</description>
+      <description>&lt;p&gt;This research project is done with the &lt;a href=&#34;https://www.oceanperception.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ocean Perception Lab&lt;/a&gt;&#xD;&#xA; at the University of Southampton. The cover image shows how an AUV can update its estimation of the cable map based on new observations &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Our research focuses on developing a comprehensive, real-time system for an Autonomous Underwater Vehicle (AUV) to efficiently search for, detect, and follow subsea communication cables. Given that these cables form the backbone of global data transmission and are vulnerable to damage, our goal is to create a robust inspection method that can handle the significant challenges of the deep-sea environment, such as high uncertainty in cable location, the featureless nature of the cables, and instances where the cable is buried or obscured. Our integrated system allows an AUV to not only track a visible cable using visual data but also to intelligently search for and relocate the cable after losing contact, making long-distance autonomous inspection missions feasible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hybrid Underwater Glider (HUG)</title>
       <link>https://www.ibrafdj.com/project/itb-hug/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/project/itb-hug/</guid>
-      <description>A HUG can switch between moving in a low-power glide mode and a high-precision propulsion mode. This hybrid movement allows it to maximize its survey duration by first travelling to the survey site in glide mode, then switch to propulsion mode while surveying the site.&#xA;The ITB-HUG is being developed in Institut Teknologi Bandung (ITB) by the Computer &amp;amp; Control Systems research group. In 2019, my team and I joined this project to work on my final undergraduate capstone design project titled &amp;ldquo;Integration of Navigation, Guidance, and Control of Hybrid Underwater Glider&amp;rdquo;.</description>
+      <description>&lt;p&gt;A HUG can switch between moving in a low-power glide mode and a high-precision propulsion mode. This hybrid movement allows it to maximize its survey duration by first travelling to the survey site in glide mode, then switch to propulsion mode while surveying the site.&lt;/p&gt;&#xA;&lt;p&gt;The ITB-HUG is being developed in &lt;em&gt;Institut Teknologi Bandung&lt;/em&gt; (ITB) by the Computer &amp;amp; Control Systems research group. In 2019, my team and I joined this project to work on my final undergraduate capstone design project titled &amp;ldquo;Integration of Navigation, Guidance, and Control of Hybrid Underwater Glider&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

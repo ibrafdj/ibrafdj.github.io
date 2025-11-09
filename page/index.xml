@@ -4,15 +4,16 @@
     <title>Pages on ibrafdj</title>
     <link>https://www.ibrafdj.com/page/</link>
     <description>Recent content in Pages on ibrafdj</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.ibrafdj.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://www.ibrafdj.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.ibrafdj.com/page/about/</guid>
-      <description>Ibrahim Fadhil Djauhari I am a Underwater Robotics Engineer based in Indonesia with five years of experience in end-to-end mobile robot development, taking novel research concepts into optimised field-tested systems. I have proven expertise in developing ROS-based systems for navigation, sensor fusion, computer vision, and SLAM, validated by two patents and two academic publications. I specialise in the research and development of Autonomous Underwater Vehicles (AUVs).</description>
+      <description>&lt;figure &gt;&lt;img style=&#34;display: block; margin-left: auto; margin-right: auto;&#34; src=&#34;https://www.ibrafdj.com/ibra.jpg&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&#x9;&#x9;&lt;figcaption style=&#34;text-align: center;&#34;&gt;Ibrahim Fadhil Djauhari&lt;/figcaption&gt;&#xA;&#x9;&#x9;&lt;/figure&gt;&#xA;&lt;p&gt;I am a Underwater Robotics Engineer based in Indonesia with five years of experience in end-to-end mobile robot development, taking novel research concepts into optimised field-tested systems. I have proven expertise in developing ROS-based systems for navigation, sensor fusion, computer vision, and SLAM, validated by two patents and two academic publications. I specialise in the research and development of Autonomous Underwater Vehicles (AUVs).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
