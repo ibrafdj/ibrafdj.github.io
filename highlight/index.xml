@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Highlights on ibrafdj</title>
-    <link>https://www.ibrafdj.com/highlight/</link>
+    <link>https://ibrafdj.com/highlight/</link>
     <description>Recent content in Highlights on ibrafdj</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.ibrafdj.com/highlight/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ibrafdj.com/highlight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineer</title>
-      <link>https://www.ibrafdj.com/highlight/engineer/</link>
+      <link>https://ibrafdj.com/highlight/engineer/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/highlight/engineer/</guid>
+      <guid>https://ibrafdj.com/highlight/engineer/</guid>
       <description>&lt;p&gt;I integrate Electrical, Software, and Marine engineering to develop full-stack robotics systems. My expertise span embedded systems, GNC (guidance, navigation, and control), SLAM, and computer vision.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Operator</title>
-      <link>https://www.ibrafdj.com/highlight/operator/</link>
+      <link>https://ibrafdj.com/highlight/operator/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/highlight/operator/</guid>
+      <guid>https://ibrafdj.com/highlight/operator/</guid>
       <description>&lt;p&gt;I operate robots such as Autonomous Underwater Vehicles (AUVs) and Remotely Operated Vehicles (ROVs) in the field, with three succesful missions at sea across Indonesia and the UK.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Researcher</title>
-      <link>https://www.ibrafdj.com/highlight/researcher/</link>
+      <link>https://ibrafdj.com/highlight/researcher/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.ibrafdj.com/highlight/researcher/</guid>
+      <guid>https://ibrafdj.com/highlight/researcher/</guid>
       <description>&lt;p&gt;I build innovative robotics systems and produce novel insight from field data collected by robots, validated by two patents registered and two published academic papers.&lt;/p&gt;</description>
     </item>
   </channel>
